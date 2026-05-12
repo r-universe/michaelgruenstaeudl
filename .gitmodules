@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "PACVr"]
 	path = PACVr
-	url = https://github.com/michaelgruenstaeudl/pacvr
+	url = https://github.com/michaelgruenstaeudl/software_pacvr
